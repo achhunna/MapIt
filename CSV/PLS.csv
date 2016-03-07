@@ -1,0 +1,43 @@
+PL Hierarchy,FSG
+PLS5000: Gross Revenues,FSG15000: Gross revenue
+PLS6000: Total Revenue Reserves,FSG26000: Revenue reserves
+PLS7000: Total Revenue Deductions,FSG25000: Revenue reductions
+PLS8000: Total Reserves and Deductions,FSG29000: Total reductions and reserves
+PLS10000: Net Revenue,FSG30000: Net revenue
+PLS11000: Product COGS,FSG31000: Product COGS
+PLS11500: Period COGS,FSG32000: Period COGS
+PLS12000: Gross Cost of Goods Sold,FSG34000: Gross cost of goods sold
+PLS12500: Online Cost of Revenue,FSG37000: Online cost of revenue
+PLS13000: Manufacturing Rebates,FSG33000: Manufacturing discounts and rebates
+PLS13200: Dev Credits,FSG33000: Manufacturing discounts and rebates
+PLS14000: COGs Credits / Rebates,FSG33000: Manufacturing discounts and rebates
+PLS16000: Cost of Goods Sold Reserves,FSG38000: Cost of goods sold reserves
+PLS18000: Warranty,FSG39000: Total Net Product COGS
+PLS20000: COGs,FSG39000: Total Net Product COGS
+PLS20200: Development Royalties,FSG44000: Total royalties
+PLS20400: License Royalties,FSG44000: Total royalties
+PLS20600: Al Royalties,FSG44000: Total royalties
+PLS20800: Royalty SRA COGs / Other,FSG44000: Total royalties
+PLS22000: Royalties,FSG44000: Total royalties
+PLS24000: COGs Amortization,FSG45000: COGS amortization
+PLS26000: Operations,FSG46000: Operations
+PLS27000: Freight,FSG47000: Freight and Warehousing
+PLS28000: Ops & Freight,FSG48000: Operations and Freight
+PLS29000: Total Cost of Goods sold,FSG51000: Total cost of goods sold
+PLS30000: Gross Profit,FSG52000: Gross profit
+PLS32000: GPO Marketing,FSG58000: Marketing
+PLS33900: GPO - Gross Advertising,FSG59500: Gross Advertising
+PLS34000: GPO - Gross Marketing & Advertising,FSG60000: Gross M&A
+PLS34900: GPO - Ad Credits,FSG60500: Ad Credits
+PLS35000: GPO M&A,FSG61000: Total Marketing and Advertising
+PLS37000: GPO Sales,FSG56000: Sales
+PLS39500: GPO - Co-op,FSG54000: Co-op advertising
+PLS39700: GPO - Sales and Co-op,FSG57500: Total Sales & Co-Op
+PLS40000: GPO - Marketing & Sales,FSG62000: Total Marketing and sales
+PLS41000: GPO - Admin,FSG65000: Administration
+PLS41500: Bad Debt,FSG63000: Bad debt
+PLS42000: GPO - G&A,FSG67000: General and administrative
+PLS44000: GPO - R&D,FSG74000: Research and development
+PLS46000: GPO Operating Expenses,FSG79000: Total operating expenses
+PLS50000: Publishing Responsibility Profit,FSG87000: Profit/(loss) before tax and minority interest
+PLS60000: Contribution Margin,FSG90000: Net income/(loss)

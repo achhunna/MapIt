@@ -1,0 +1,48 @@
+Hardware Type,Interface Type
+HT: Console,Type: Console
+HT: HandHeld,Type: HandHeld
+HT: Mobile,Type: Mobile
+HT: Browser,Type: Browser
+HT: Other,Type: Other
+HT: PC,Type: PC
+HW: PS2,Interface: PS2
+HW: PS3,Interface: PS3
+HW: PSX,Interface: PSX
+HW: Wii,Interface: Wii
+HW: WiiU,Interface: WiiU
+HW: XBOX,Interface: XBOX
+HW: XBOX360,Interface: XBOX360
+HW: 3DS,Interface: 3DS
+HW: DSi,Interface: DSi
+HW: NDS,Interface: NDS
+HW: PS Vita,Interface: PS Vita
+HW: PSP,Interface: PSP
+HW: Mobile Phone,Interface: Mobile Phone
+HW: iPad,Interface: iPad
+HW: Browser,Interface: Browser
+HW: Other,Interface: Other
+HW: PC,Interface: PC
+HW: PS4,Interface: PS4
+HW: XBOX720,Interface: XBOX720
+Platform: PS2,Platform: PS2
+Platform: PS3,Platform: PS3
+Platform: PSX,Platform: PSX
+Platform: Wii,Platform: Wii
+Platform: WiiU,Platform: WiiU
+Platform: XBOX,Platform: XBOX
+Platform: XBOX360,Platform: XBOX360
+Platform: 3DS,Platform: 3DS
+Platform: DSi,Platform: DSi
+Platform: NDS,Platform: NDS
+Platform: PS Vita,Platform: PS Vita
+Platform: PSP,Platform: PSP
+Platform: iPhone,Platform: iPhone
+Platform: iPad,Platform: iPad
+Platform: Browser,Platform: Browser
+Platform: Interface Other,Platform: Interface Other
+Platform: License/OEM,Platform: License/OEM
+Platform: MULTI,Platform: MULTI
+Platform: MAC,Platform: MAC
+Platform: PCWIN,Platform: PCWIN
+HW: XBOX One,Interface: XBOX One
+Platform: XBOX One,Platform: XBOX One
